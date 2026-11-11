@@ -22,8 +22,8 @@ A robust, secure, and production-ready **Spring Boot** backend system designed f
 4. **HTML Email Templates:** 
    - Automated confirmation emails upon successful application submission.
    - Dynamic status update emails (`APPROVED` - Green badge, `REJECTED` - Red badge) triggered by admin actions.
-5. **Payment Simulation (Mock Gateway):** Automatically calculates package prices (19 AZN, 35 AZN, 59 AZN) and simulates secure card processing with instant database status updates (`PAID`).
-6. **Swagger UI Support:** Fully documented endpoints available at `http://localhost:8080/swagger-ui/index.html`.
+5. **Payment Simulation (Mock Gateway):** Automatically calculates package prices and simulates secure card processing with instant database status updates (`PAID`).
+
 
 ---
 
