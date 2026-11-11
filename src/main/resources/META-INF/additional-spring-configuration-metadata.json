@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "cloudinary.api_secret",
+    "type": "java.lang.String",
+    "description": "A description for 'cloudinary.api_secret'"
+  },
+  {
+    "name": "cloudinary.cloud_name",
+    "type": "java.lang.String",
+    "description": "A description for 'cloudinary.cloud_name'"
+  },
+  {
+    "name": "cloudinary.api_key",
+    "type": "java.lang.String",
+    "description": "A description for 'cloudinary.api_key'"
+  },
+  {
+    "name": "birpay.base-url",
+    "type": "java.lang.String",
+    "description": "A description for 'birpay.base-url'"
+  },
+  {
+    "name": "birpay.password",
+    "type": "java.lang.String",
+    "description": "A description for 'birpay.password'"
+  },
+  {
+    "name": "birpay.merchant-id",
+    "type": "java.lang.String",
+    "description": "A description for 'birpay.merchant-id'"
+  },
+  {
+    "name": "birpay.username",
+    "type": "java.lang.String",
+    "description": "A description for 'birpay.username'"
+  },
+  {
+    "name": "birpay.terminal-id",
+    "type": "java.lang.String",
+    "description": "A description for 'birpay.terminal-id'"
+  },
+  {
+    "name": "admin.default.email",
+    "type": "java.lang.String",
+    "description": "A description for 'admin.default.email'"
+  },
+  {
+    "name": "admin.default.password",
+    "type": "java.lang.String",
+    "description": "A description for 'admin.default.password'"
+  }
+]}
